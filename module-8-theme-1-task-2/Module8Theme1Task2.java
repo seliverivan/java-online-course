@@ -2,7 +2,7 @@ import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.util.Date;
 
-public class Module8Theme1Task3 {
+public class Module8Theme1Task2 {
     public static void main(String[] args) {
         System.out.println("========== 5 спецификаторов (таблица 1) ==========");
         
