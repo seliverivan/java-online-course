@@ -1,4 +1,4 @@
-public class Module2Theme4Task1 {
+public class Module2Theme4Tasks {
     public static void main(String[] args) {
         //Приведите примеры использования методы decode().
         Integer valInteger = Integer.decode("17");

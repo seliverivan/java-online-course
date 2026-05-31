@@ -1,4 +1,4 @@
-public class Module2Theme3Task1 {
+public class Module2Theme3Tasks {
     public static void main(String[] args) {
         double testlVal = 5.2;
 

@@ -1,4 +1,4 @@
-public class Module2Theme1Task1 {
+public class Module2Theme1Tasks {
     public static void main(String[] args) {
         //Типы данных
         byte valByte = 0;

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Module2Theme9Task1 {
+public class Module2Theme9Tasks {
     public static void main(String[] args) {
 
         int a[] = {8,9,6,1,14,20,13,11};

@@ -1,4 +1,4 @@
-public class Module2Theme7Task1 {
+public class Module2Theme7Tasks {
 
     
     enum DayTime { MORNING, AFTERNOON, EVENING, NIGHT };

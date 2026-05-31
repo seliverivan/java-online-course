@@ -1,4 +1,4 @@
-public class Module2Theme8task1 {
+public class Module2Theme8Tasks {
     public static void main(String[] args) {
         
         char c0 = 'D';
